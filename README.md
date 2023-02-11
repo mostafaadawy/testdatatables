@@ -65,3 +65,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # check the [ref](https://yajrabox.com/docs/laravel-datatables/master/quick-starter)
+- do not put short path to sqlite put from C:/
